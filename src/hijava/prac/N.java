@@ -10,7 +10,7 @@ public class N {
 		x=y;
 		y=c;
 		
-		
+		                               
 		
 	}
 	public static void main(String[] args) {
