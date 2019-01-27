@@ -46,6 +46,9 @@ public class Man {
 	public void setAmount(int amount) {
 		this.amount = amount;
 	}
+	public String toString() {
+		return this.name + "님의 잔액은 " + this.amount + "원 입니다.";
+	}
 
 	
 	
